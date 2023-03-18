@@ -3,18 +3,18 @@
 ## O processo abaixo foi utilizado somente para estudos de cibersegurança
 
 ## Ferramentas
--Setoolkit
--Kali Linux
+- Setoolkit
+- Kali Linux
 
 ## Configurando o Pshighing no Linux (Via Terminal)
--Acesso root: sudo su
--Iniciando o setoolkit: setoolkit
--Tipo de ataque: Social-Engineering Attacks
--Vetor de ataque: Web Site Attack Vectors
--Método de ataque: Credential Harvester Attack Method 
--Método de ataque: Site Cloner
--Selecionar o IP da máquina: (IP da máquina)
-URL para clone: https://github.com/login
+- Acesso root: sudo su
+- Iniciando o setoolkit: setoolkit
+- Tipo de ataque: Social-Engineering Attacks
+- Vetor de ataque: Web Site Attack Vectors
+- Método de ataque: Credential Harvester Attack Method 
+- Método de ataque: Site Cloner
+- Selecionar o IP da máquina: (IP da máquina)
+- URL para clone: https://github.com/login
 
 ## Resultado
 -

@@ -1,14 +1,12 @@
-# Cybersecurity-Specialist--DIO
+# Cybersecurity-Specialist--DIO (Phishing para captura de senhas do GitHub)
 
-## Phishing para captura de senhas do GitHub
+## O processo abaixo foi utilizado somente para estudos de cibersegurança
 
-*O processo abaixo foi utilizado somente para estudos de cibersegurança
-
-### Ferramentas
+## Ferramentas
 -Setoolkit
 -Kali Linux
 
-###Configurando o Pshighing no Linux (Via Terminal)
+## Configurando o Pshighing no Linux (Via Terminal)
 -Acesso root: sudo su
 -Iniciando o setoolkit: setoolkit
 -Tipo de ataque: Social-Engineering Attacks
@@ -18,6 +16,7 @@
 -Selecionar o IP da máquina: (IP da máquina)
 URL para clone: https://github.com/login
 
-###Resultado
+## Resultado
+-
 ![result_study_phis](https://user-images.githubusercontent.com/122748390/226114226-a4bfc9e9-0641-4a1e-9b4e-bd16173172d7.png)
 
